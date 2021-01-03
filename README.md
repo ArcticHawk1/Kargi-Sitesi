@@ -10,7 +10,7 @@ Made by Batuhan Başoğlu
 
 1. Run `npm i` to install dependencies.
 2. `ng serve` to test server.
-3. Check localhost:4200 to see the website.
+3. Check `localhost:4200` to see the website.
 
 # System Requirements
 
